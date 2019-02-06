@@ -23,3 +23,4 @@ Route::get('/assignment3', 'Assignment3@index');
 Route::post('/user-details', 'Assignment3@store');
 Route::get('/show-user-details', 'Assignment3@index');
 
+Route::get('/assignment5', 'Assignment5@index');
