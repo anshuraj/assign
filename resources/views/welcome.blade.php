@@ -25,10 +25,8 @@
     <body>
         <h1>Assignments</h1>
         <ul>
-            <li><a href="/assignment1">Assignment 1</a></li>
             <li><a href="/assignment2">Assignment 2</a></li>
             <li><a href="/assignment3">Assignment 3</a></li>
-            <li><a href="/assignment4">Assignment 4</a></li>
             <li><a href="/assignment5">Assignment 5</a></li>
 
         </ul>
