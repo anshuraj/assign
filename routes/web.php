@@ -18,3 +18,8 @@ Route::get('/', function () {
 
 Route::get('/assignment2', 'Assignment2@index');
 Route::get('/auth/linkedin/callback', 'Assignment2@callback');
+
+Route::get('/assignment3', 'Assignment3@index');
+Route::post('/user-details', 'Assignment3@store');
+Route::get('/show-user-details', 'Assignment3@index');
+
